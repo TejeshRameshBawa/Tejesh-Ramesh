@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @DarkArsenal
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning computing
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Tejesh Ramesh Bawa
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning computing and open to work
 - 📫 How to reach me on my email: tejeshramesh590@outlook.com
 
 <!---
